@@ -30,6 +30,7 @@
     "@adonisjs/lucid": "^5.0.3",
     "@adonisjs/session": "^1.0.23",
     "@adonisjs/shield": "^1.0.6",
+    "@ui5/webcomponents": "^0.10.1",
     "mysql": "^2.17.1"
   },
   "devDependencies": {

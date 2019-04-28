@@ -4,13 +4,15 @@ import VueRouter from 'vue-router';
 import Login from '../views/Auth/Login';
 import Register from '../views/Auth/Register';
 import Home from '../views/Home';
+import UI5 from '../views/UI5';
 
 let router = new VueRouter({
     mode: "history",
     routes: [
         { path: '/login', component: Login, name: 'login', meta: { requiredAuth: false } },
         { path: '/register', component: Register, name: 'register', meta: { requiredAuth: false } },
-        { path: '/', component: Home, meta: { requiredAuth: true } },
+        { path: '/home', component: Home, meta: { requiredAuth: true } },
+        { path: '/', component: UI5, meta: { requiredAuth: false } },
     ]
 })
 

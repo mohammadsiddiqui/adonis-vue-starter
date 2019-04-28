@@ -1,3 +1,5 @@
+import './ui5.js';
+
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 

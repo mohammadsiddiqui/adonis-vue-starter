@@ -1,0 +1,11 @@
+import "@ui5/webcomponents/dist/List";
+import "@ui5/webcomponents/dist/StandardListItem";
+import "@ui5/webcomponents/dist/Card";
+import "@ui5/webcomponents/dist/ShellBar";
+import "@ui5/webcomponents/dist/TabContainer";
+import "@ui5/webcomponents/dist/Tab";
+import "@ui5/webcomponents/dist/TabSeparator";
+import "@ui5/webcomponents/dist/Table";
+import "@ui5/webcomponents/dist/TableColumn";
+import "@ui5/webcomponents/dist/TableRow";
+import "@ui5/webcomponents/dist/TableCell"; 
