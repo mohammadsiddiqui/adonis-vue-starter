@@ -2,7 +2,7 @@
   <div>
     <ui5-shellbar
       profile="https://sap.github.io/ui5-webcomponents/www/samples/images/woman_avatar_5.png"
-      primary-title="Corporate Portal"
+      primary-title="Global Business Systems"
       secondary-title="secondary title"
       logo="https://sap.github.io/ui5-webcomponents/images/sap-logo-svg.svg"
     ></ui5-shellbar>
