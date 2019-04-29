@@ -1,4 +1,4 @@
-# Adonis Vuetify starter with prebuilt auth pages
+# Adonis starter with prebuilt auth pages
 
 ## Features
 * Single Page Application
